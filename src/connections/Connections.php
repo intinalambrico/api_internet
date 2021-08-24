@@ -8,8 +8,8 @@ class Connections extends PDO{
 		
 		$server	=	'mysql:host=localhost; dbname=controlmas';
 		 
-		$password	= '9C9UAaqKecHRZA79';
-		$username	= 'LNWW(345';
+		$password	= '';
+		$username	= '';
 	
 
 		try {
